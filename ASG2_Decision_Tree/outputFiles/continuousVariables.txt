@@ -1,0 +1,11 @@
+Continuous-type variables:
+---------------------------------------------------------------------------------------------------------EXT_SOURCE_3
+EXT_SOURCE_2
+EXT_SOURCE_1
+AMT_ANNUITY
+DAYS_EMPLOYED
+AMT_CREDIT
+DAYS_ID_PUBLISH
+DAYS_REGISTRATION
+LIVINGAREA_MODE
+AMT_GOODS_PRICE

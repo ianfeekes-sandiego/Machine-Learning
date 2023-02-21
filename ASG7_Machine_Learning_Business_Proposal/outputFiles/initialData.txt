@@ -1,0 +1,80 @@
+This file contains the initial data frame without cleaning:
+        SK_ID_CURR  TARGET NAME_CONTRACT_TYPE CODE_GENDER FLAG_OWN_CAR  \
+0           100002       1         Cash loans           M            N   
+1           100003       0         Cash loans           F            N   
+2           100004       0    Revolving loans           M            Y   
+3           100006       0         Cash loans           F            N   
+4           100007       0         Cash loans           M            N   
+...            ...     ...                ...         ...          ...   
+307506      456251       0         Cash loans           M            N   
+307507      456252       0         Cash loans           F            N   
+307508      456253       0         Cash loans           F            N   
+307509      456254       1         Cash loans           F            N   
+307510      456255       0         Cash loans           F            N   
+
+       FLAG_OWN_REALTY  CNT_CHILDREN  AMT_INCOME_TOTAL  AMT_CREDIT  \
+0                    Y             0          202500.0    406597.5   
+1                    N             0          270000.0   1293502.5   
+2                    Y             0           67500.0    135000.0   
+3                    Y             0          135000.0    312682.5   
+4                    Y             0          121500.0    513000.0   
+...                ...           ...               ...         ...   
+307506               N             0          157500.0    254700.0   
+307507               Y             0           72000.0    269550.0   
+307508               Y             0          153000.0    677664.0   
+307509               Y             0          171000.0    370107.0   
+307510               N             0          157500.0    675000.0   
+
+        AMT_ANNUITY  ...  FLAG_DOCUMENT_18 FLAG_DOCUMENT_19 FLAG_DOCUMENT_20  \
+0           24700.5  ...                 0                0                0   
+1           35698.5  ...                 0                0                0   
+2            6750.0  ...                 0                0                0   
+3           29686.5  ...                 0                0                0   
+4           21865.5  ...                 0                0                0   
+...             ...  ...               ...              ...              ...   
+307506      27558.0  ...                 0                0                0   
+307507      12001.5  ...                 0                0                0   
+307508      29979.0  ...                 0                0                0   
+307509      20205.0  ...                 0                0                0   
+307510      49117.5  ...                 0                0                0   
+
+       FLAG_DOCUMENT_21 AMT_REQ_CREDIT_BUREAU_HOUR AMT_REQ_CREDIT_BUREAU_DAY  \
+0                     0                        0.0                       0.0   
+1                     0                        0.0                       0.0   
+2                     0                        0.0                       0.0   
+3                     0                        NaN                       NaN   
+4                     0                        0.0                       0.0   
+...                 ...                        ...                       ...   
+307506                0                        NaN                       NaN   
+307507                0                        NaN                       NaN   
+307508                0                        1.0                       0.0   
+307509                0                        0.0                       0.0   
+307510                0                        0.0                       0.0   
+
+        AMT_REQ_CREDIT_BUREAU_WEEK  AMT_REQ_CREDIT_BUREAU_MON  \
+0                              0.0                        0.0   
+1                              0.0                        0.0   
+2                              0.0                        0.0   
+3                              NaN                        NaN   
+4                              0.0                        0.0   
+...                            ...                        ...   
+307506                         NaN                        NaN   
+307507                         NaN                        NaN   
+307508                         0.0                        1.0   
+307509                         0.0                        0.0   
+307510                         0.0                        2.0   
+
+        AMT_REQ_CREDIT_BUREAU_QRT  AMT_REQ_CREDIT_BUREAU_YEAR  
+0                             0.0                         1.0  
+1                             0.0                         0.0  
+2                             0.0                         0.0  
+3                             NaN                         NaN  
+4                             0.0                         0.0  
+...                           ...                         ...  
+307506                        NaN                         NaN  
+307507                        NaN                         NaN  
+307508                        0.0                         1.0  
+307509                        0.0                         0.0  
+307510                        0.0                         1.0  
+
+[307511 rows x 122 columns]

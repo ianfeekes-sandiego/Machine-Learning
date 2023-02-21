@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="NAME_EDUCATION_TYPE_Secondary / secondary special <= 0.5\ngini = 0.1\nsamples = 76165\nvalue = [111624, 9095]"] ;
+1 [label="NAME_CONTRACT_TYPE_Revolving loans <= 0.5\ngini = 0.1\nsamples = 27217\nvalue = [40899, 2354]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="NAME_EDUCATION_TYPE_Incomplete higher <= 0.5\ngini = 0.1\nsamples = 23721\nvalue = [35395, 2155]"] ;
+1 -> 2 ;
+3 [label="gini = 0.1\nsamples = 20804\nvalue = [31157, 1769]"] ;
+2 -> 3 ;
+4 [label="gini = 0.2\nsamples = 2917\nvalue = [4238, 386]"] ;
+2 -> 4 ;
+5 [label="NAME_EDUCATION_TYPE_Lower secondary <= 0.5\ngini = 0.1\nsamples = 3496\nvalue = [5504, 199]"] ;
+1 -> 5 ;
+6 [label="gini = 0.1\nsamples = 3447\nvalue = [5436, 183]"] ;
+5 -> 6 ;
+7 [label="gini = 0.3\nsamples = 49\nvalue = [68, 16]"] ;
+5 -> 7 ;
+8 [label="NAME_INCOME_TYPE_Working <= 0.5\ngini = 0.2\nsamples = 48948\nvalue = [70725, 6741]"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="NAME_INCOME_TYPE_Pensioner <= 0.5\ngini = 0.1\nsamples = 19867\nvalue = [29176, 2241]"] ;
+8 -> 9 ;
+10 [label="gini = 0.1\nsamples = 14314\nvalue = [20993, 1750]"] ;
+9 -> 10 ;
+11 [label="gini = 0.1\nsamples = 5553\nvalue = [8183, 491]"] ;
+9 -> 11 ;
+12 [label="CNT_CHILDREN <= 5.5\ngini = 0.2\nsamples = 29081\nvalue = [41549, 4500]"] ;
+8 -> 12 ;
+13 [label="gini = 0.2\nsamples = 29076\nvalue = [41546, 4497]"] ;
+12 -> 13 ;
+14 [label="gini = 0.5\nsamples = 5\nvalue = [3, 3]"] ;
+12 -> 14 ;
+}

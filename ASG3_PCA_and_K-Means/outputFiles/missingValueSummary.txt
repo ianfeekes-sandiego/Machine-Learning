@@ -1,0 +1,84 @@
+This data shows the independant variables which contained missing values and the count of each:
+NAME_CONTRACT_TYPE_Cash loans                             0
+NAME_CONTRACT_TYPE_Revolving loans                        0
+FLAG_OWN_CAR_N                                            0
+FLAG_OWN_CAR_Y                                            0
+CODE_GENDER_F                                             0
+CODE_GENDER_M                                             0
+CODE_GENDER_XNA                                           0
+NAME_INCOME_TYPE_Businessman                              0
+NAME_INCOME_TYPE_Commercial associate                     0
+NAME_INCOME_TYPE_Maternity leave                          0
+NAME_INCOME_TYPE_Pensioner                                0
+NAME_INCOME_TYPE_State servant                            0
+NAME_INCOME_TYPE_Student                                  0
+NAME_INCOME_TYPE_Unemployed                               0
+NAME_INCOME_TYPE_Working                                  0
+NAME_EDUCATION_TYPE_Academic degree                       0
+NAME_EDUCATION_TYPE_Higher education                      0
+NAME_EDUCATION_TYPE_Incomplete higher                     0
+NAME_EDUCATION_TYPE_Lower secondary                       0
+NAME_EDUCATION_TYPE_Secondary / secondary special         0
+ORGANIZATION_TYPE_Advertising                             0
+ORGANIZATION_TYPE_Agriculture                             0
+ORGANIZATION_TYPE_Bank                                    0
+ORGANIZATION_TYPE_Business Entity Type 1                  0
+ORGANIZATION_TYPE_Business Entity Type 2                  0
+ORGANIZATION_TYPE_Business Entity Type 3                  0
+ORGANIZATION_TYPE_Cleaning                                0
+ORGANIZATION_TYPE_Construction                            0
+ORGANIZATION_TYPE_Culture                                 0
+ORGANIZATION_TYPE_Electricity                             0
+ORGANIZATION_TYPE_Emergency                               0
+ORGANIZATION_TYPE_Government                              0
+ORGANIZATION_TYPE_Hotel                                   0
+ORGANIZATION_TYPE_Housing                                 0
+ORGANIZATION_TYPE_Industry: type 1                        0
+ORGANIZATION_TYPE_Industry: type 10                       0
+ORGANIZATION_TYPE_Industry: type 11                       0
+ORGANIZATION_TYPE_Industry: type 12                       0
+ORGANIZATION_TYPE_Industry: type 13                       0
+ORGANIZATION_TYPE_Industry: type 2                        0
+ORGANIZATION_TYPE_Industry: type 3                        0
+ORGANIZATION_TYPE_Industry: type 4                        0
+ORGANIZATION_TYPE_Industry: type 5                        0
+ORGANIZATION_TYPE_Industry: type 6                        0
+ORGANIZATION_TYPE_Industry: type 7                        0
+ORGANIZATION_TYPE_Industry: type 8                        0
+ORGANIZATION_TYPE_Industry: type 9                        0
+ORGANIZATION_TYPE_Insurance                               0
+ORGANIZATION_TYPE_Kindergarten                            0
+ORGANIZATION_TYPE_Legal Services                          0
+ORGANIZATION_TYPE_Medicine                                0
+ORGANIZATION_TYPE_Military                                0
+ORGANIZATION_TYPE_Mobile                                  0
+ORGANIZATION_TYPE_Other                                   0
+ORGANIZATION_TYPE_Police                                  0
+ORGANIZATION_TYPE_Postal                                  0
+ORGANIZATION_TYPE_Realtor                                 0
+ORGANIZATION_TYPE_Religion                                0
+ORGANIZATION_TYPE_Restaurant                              0
+ORGANIZATION_TYPE_School                                  0
+ORGANIZATION_TYPE_Security                                0
+ORGANIZATION_TYPE_Security Ministries                     0
+ORGANIZATION_TYPE_Self-employed                           0
+ORGANIZATION_TYPE_Services                                0
+ORGANIZATION_TYPE_Telecom                                 0
+ORGANIZATION_TYPE_Trade: type 1                           0
+ORGANIZATION_TYPE_Trade: type 2                           0
+ORGANIZATION_TYPE_Trade: type 3                           0
+ORGANIZATION_TYPE_Trade: type 4                           0
+ORGANIZATION_TYPE_Trade: type 5                           0
+ORGANIZATION_TYPE_Trade: type 6                           0
+ORGANIZATION_TYPE_Trade: type 7                           0
+ORGANIZATION_TYPE_Transport: type 1                       0
+ORGANIZATION_TYPE_Transport: type 2                       0
+ORGANIZATION_TYPE_Transport: type 3                       0
+ORGANIZATION_TYPE_Transport: type 4                       0
+ORGANIZATION_TYPE_University                              0
+ORGANIZATION_TYPE_XNA                                     0
+EXT_SOURCE_1                                         173378
+AMT_CREDIT                                                0
+DAYS_BIRTH                                                0
+CNT_CHILDREN                                              0
+dtype: int64

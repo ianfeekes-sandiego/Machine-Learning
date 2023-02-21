@@ -1,0 +1,19 @@
+This data shows the independant variables which contained missing values and the count of each:
+TARGET                             0
+NAME_CONTRACT_TYPE                 0
+CODE_GENDER                        0
+FLAG_OWN_CAR                       0
+FLAG_OWN_REALTY                    0
+NAME_TYPE_SUITE                 1292
+NAME_INCOME_TYPE                   0
+NAME_EDUCATION_TYPE                0
+NAME_FAMILY_STATUS                 0
+NAME_HOUSING_TYPE                  0
+OCCUPATION_TYPE                96391
+WEEKDAY_APPR_PROCESS_START         0
+ORGANIZATION_TYPE                  0
+FONDKAPREMONT_MODE            210295
+HOUSETYPE_MODE                154297
+WALLSMATERIAL_MODE            156341
+EMERGENCYSTATE_MODE           145755
+dtype: int64
